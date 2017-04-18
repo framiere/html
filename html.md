@@ -1,4 +1,4 @@
-#Le HTML
+# Le HTML
 ## HTML, utilisation principale
 
 Le HTML est un language informatique qui compose chacun des sites Internets.
@@ -14,7 +14,7 @@ Pour rajouter certaines spécificités a son code html, on peut utiliser les css
 Les css ne sont pas des codes à proprement parler, nous en reparlerons plus bas.
 
 
-##HTML, syntaxe et principales balises
+## HTML, syntaxe et principales balises
 
 Un code en HTML commmence nécessairement par la balise <html> et se finit par la balise </html>.
 
@@ -34,7 +34,7 @@ Il existe en tout plus de 110 balises en HTML.
 
 La plupart des balises se completent, ex: un "style" se trouvera a l'interieur d'un "head"...
 
-##HTML et css
+## HTML et css
 
 Les css servent a rajouter des détails dans un code en html
 
